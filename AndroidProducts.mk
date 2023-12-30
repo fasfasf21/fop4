@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_lisbon.mk
+    $(LOCAL_DIR)/twrp_lisbon.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_lisbon-user \
     omni_lisbon-userdebug \
-    omni_lisbon-eng
+    twrp_lisbon-eng
